@@ -1,8 +1,14 @@
+import { Modal } from '@mui/material'
 import React from 'react'
+import Form from '../Component/Form'
 
 const EditEmployee = () => {
   return (
-    <div>EditEmployee</div>
+    <div>
+      <Modal open={true}>
+        <Form/>
+      </Modal>
+    </div>
   )
 }
 
