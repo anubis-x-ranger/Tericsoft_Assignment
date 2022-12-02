@@ -2,22 +2,17 @@ import './App.css';
 import Form from './Component/Form';
 import Modal from '@mui/material/Modal';
 import { useEffect, useState } from 'react';
-import { Button, TableBody, TableCell, TableHead, TableRow } from '@mui/material';
-import Table from '@mui/material/Table';
-
+import { Button } from '@mui/material';
+// import Table from '@mui/material/Table';
+import Home from './Pages/Home';
+import {Routes,Route} from 'react-router-dom'
+import EditEmployee from './Pages/EditEmployee';
+import AddEmployee from './Pages/AddEmployee';
+import Navbar from './Component/Navbar';
+ 
 
 function App() {
-  const [open, setOpen] = useState(false);
   
-  
-  const handleOpen = () => {
-    setOpen(true);
-  };
-
-  const handleClose = () => {
-    setOpen(false);
-  };
-
   useEffect(() => {
     
   
@@ -28,32 +23,14 @@ function App() {
  
   return (
     <div className="App">
-      <h1>Employee Management system</h1>
-      <Button variant="contained" color='primary' onClick={handleOpen}>
-        Add Employee
-      </Button>
-    
-      <Modal open={open} onClose={handleClose}>
-        <Form/>
-      </Modal>
       
-      <Table>
-        <TableHead>
-          <TableRow>
-            <TableCell>ID</TableCell>
-            <TableCell>Name</TableCell>
-            <TableCell>Email</TableCell>
-            <TableCell>Phone</TableCell>
-            <TableCell>DOB</TableCell>
-            <TableCell>Gender</TableCell>
-            <TableCell>Hobbies</TableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-
-        </TableBody>
-      </Table>
-
+      <Navbar/>
+      
+      <Routes>
+        <Route path='/' element={<Home/>}/>
+        <Route path='/add' element={<AddEmployee/>}/>
+        <Route path='/edit/:id' element={<EditEmployee/>}/>
+      </Routes>
     </div>
   );
 }
