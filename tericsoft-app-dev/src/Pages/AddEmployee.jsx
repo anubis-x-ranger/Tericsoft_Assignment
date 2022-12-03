@@ -4,9 +4,6 @@ import Form from '../Component/Form';
 
 const AddEmployee = () => {
     
-  
-
-
   return (
     <div>    
       <Modal open={true}>

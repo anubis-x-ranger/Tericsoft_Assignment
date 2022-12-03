@@ -36,7 +36,7 @@ const ShowEmployees = () => {
         </TableRow>
         </TableHead>
         <TableBody>
-            <EmployeeRows employees={employees}/>
+            <EmployeeRows employees={employees} getEmployees={getEmployees}/>
         </TableBody>
     </Table>
 </div>

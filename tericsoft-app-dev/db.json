@@ -1,43 +1,521 @@
 {
-    "employee":[
-    {"id":1,"name":"Witty","email":"wspruce0@woothemes.com","phone":"937-251-5885","dob":"18/02/1996","gender":"Male","hobbies":"Drywall"},
-    {"id":2,"name":"Gerrilee","email":"genever1@storify.com","phone":"584-150-6686","dob":"14/10/2003","gender":"Female","hobbies":"EEO Reporting"},
-    {"id":3,"name":"Gayle","email":"gkanwell2@comcast.net","phone":"670-197-1031","dob":"28/07/2000","gender":"Female","hobbies":"PDP"},
-    {"id":4,"name":"Shawnee","email":"sbartoszewski3@apple.com","phone":"916-207-0573","dob":"26/08/2004","gender":"Non-binary","hobbies":"BFD"},
-    {"id":5,"name":"Ax","email":"agoldsberry4@w3.org","phone":"956-396-4241","dob":"31/05/2005","gender":"Male","hobbies":"MySQL"},
-    {"id":6,"name":"Delmore","email":"ddarkott5@oracle.com","phone":"173-220-6911","dob":"08/08/2004","gender":"Genderfluid","hobbies":"HCM Processes &amp; Forms"},
-    {"id":7,"name":"Reider","email":"rgerckens6@yellowbook.com","phone":"666-217-3928","dob":"09/10/2007","gender":"Agender","hobbies":"Eye Tracking"},
-    {"id":8,"name":"Cinderella","email":"cwonham7@nationalgeographic.com","phone":"141-133-4203","dob":"30/09/1996","gender":"Female","hobbies":"Temporary Placement"},
-    {"id":9,"name":"Retha","email":"rfender8@cornell.edu","phone":"502-649-7242","dob":"26/10/2005","gender":"Female","hobbies":"Joint Military Operations"},
-    {"id":10,"name":"Carolyn","email":"cbrick9@mashable.com","phone":"442-386-3722","dob":"08/07/2007","gender":"Female","hobbies":"XML Programming"},
-    {"id":11,"name":"Rodney","email":"rblurtona@telegraph.co.uk","phone":"661-602-0389","dob":"18/03/1998","gender":"Polygender","hobbies":"Police"},
-    {"id":12,"name":"Zitella","email":"zkeenlaysideb@sciencedaily.com","phone":"453-427-6260","dob":"13/02/2006","gender":"Female","hobbies":"FM/2"},
-    {"id":13,"name":"Latrina","email":"lleirmonthc@chicagotribune.com","phone":"294-267-5738","dob":"18/09/2006","gender":"Female","hobbies":"FCE"},
-    {"id":14,"name":"Sheri","email":"sspringtorpd@yale.edu","phone":"593-923-0546","dob":"25/04/2005","gender":"Female","hobbies":"TyMetrix"},
-    {"id":15,"name":"Liam","email":"lfellone@stanford.edu","phone":"486-275-8676","dob":"30/10/2003","gender":"Male","hobbies":"HBA"},
-    {"id":16,"name":"Rogers","email":"rpelhamf@abc.net.au","phone":"323-554-5860","dob":"12/05/2005","gender":"Male","hobbies":"HP NonStop"},
-    {"id":17,"name":"Hilde","email":"hcupperg@house.gov","phone":"327-572-0845","dob":"16/04/2008","gender":"Female","hobbies":"IXIA"},
-    {"id":18,"name":"Francis","email":"ftapph@drupal.org","phone":"959-251-7379","dob":"29/04/1999","gender":"Agender","hobbies":"Data Warehousing"},
-    {"id":19,"name":"Ermentrude","email":"ecampleni@shop-pro.jp","phone":"853-575-8938","dob":"12/03/2006","gender":"Female","hobbies":"Behavior Management"},
-    {"id":20,"name":"Wilie","email":"wspurrierj@arstechnica.com","phone":"287-750-4635","dob":"15/11/1998","gender":"Female","hobbies":"TDMA"},
-    {"id":21,"name":"Chevy","email":"crosternk@oakley.com","phone":"868-839-2146","dob":"21/05/2007","gender":"Male","hobbies":"Jidoka"},
-    {"id":22,"name":"Gerianne","email":"gduddinl@mapy.cz","phone":"552-128-0283","dob":"16/09/2000","gender":"Female","hobbies":"DNA replication"},
-    {"id":23,"name":"Seamus","email":"sbenediktm@mysql.com","phone":"547-601-8026","dob":"29/01/1999","gender":"Male","hobbies":"HDR Photography"},
-    {"id":24,"name":"Denna","email":"dpezeyn@tmall.com","phone":"169-758-0505","dob":"21/09/2000","gender":"Female","hobbies":"Avionics"},
-    {"id":25,"name":"Fred","email":"flackeyo@geocities.jp","phone":"919-740-1195","dob":"18/01/2001","gender":"Non-binary","hobbies":"Agile Testing"},
-    {"id":26,"name":"Cindi","email":"cocanavanp@google.fr","phone":"339-322-0608","dob":"27/06/2002","gender":"Female","hobbies":"FX Derivatives"},
-    {"id":27,"name":"Rusty","email":"rerwinq@msn.com","phone":"481-482-3751","dob":"07/11/2003","gender":"Male","hobbies":"LabVIEW"},
-    {"id":28,"name":"Norina","email":"nwarbrickr@opensource.org","phone":"552-345-9881","dob":"23/02/2007","gender":"Female","hobbies":"JMX"},
-    {"id":29,"name":"Miles","email":"mborboroughs@photobucket.com","phone":"701-365-0095","dob":"26/03/2007","gender":"Male","hobbies":"QML"},
-    {"id":30,"name":"Arv","email":"adiggenst@amazon.co.jp","phone":"887-741-4241","dob":"19/06/1999","gender":"Male","hobbies":"Strategic Thinking"},
-    {"id":31,"name":"Codi","email":"cmckerlieu@jimdo.com","phone":"931-360-6726","dob":"05/07/1998","gender":"Male","hobbies":"Music Publishing"},
-    {"id":32,"name":"Emelia","email":"eaustwickv@drupal.org","phone":"961-415-7391","dob":"27/06/1998","gender":"Female","hobbies":"Film"},
-    {"id":33,"name":"Eda","email":"erayerw@army.mil","phone":"775-527-6798","dob":"15/12/2007","gender":"Genderqueer","hobbies":"UB92"},
-    {"id":34,"name":"Marla","email":"mhenckex@opera.com","phone":"893-378-9893","dob":"04/05/2008","gender":"Female","hobbies":"HP Server Hardware"},
-    {"id":35,"name":"Inger","email":"ibernoty@seesaa.net","phone":"272-174-3767","dob":"05/08/1999","gender":"Female","hobbies":"Video Production"},
-    {"id":36,"name":"Weston","email":"wmangonz@youku.com","phone":"591-910-1301","dob":"06/08/2001","gender":"Male","hobbies":"WCF"},
-    {"id":37,"name":"Hedi","email":"hmacgiany10@livejournal.com","phone":"394-942-5053","dob":"24/08/1996","gender":"Female","hobbies":"PFI"},
-    {"id":38,"name":"Beau","email":"bpumphrey11@dropbox.com","phone":"852-666-5711","dob":"08/08/1998","gender":"Male","hobbies":"PowerPoint"},
-    {"id":39,"name":"Janene","email":"jlindwasser12@state.tx.us","phone":"666-224-3352","dob":"28/01/2007","gender":"Female","hobbies":"QC Tools"},
-    {"id":40,"name":"Theobald","email":"tpryce13@microsoft.com","phone":"976-517-1268","dob":"17/07/1998","gender":"Genderqueer","hobbies":"Sports Writing"}]
+  "employee": [
+    {
+      "id": 2,
+      "name": "Shan",
+      "email": "myashanov1@globo.com",
+      "phone": "3616042355",
+      "dob": "2007-07-08",
+      "gender": "female",
+      "hobbies": [
+        "TPE"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Aura",
+      "email": "ainstone2@mysql.com",
+      "phone": "5495652555",
+      "dob": "2003-08-17",
+      "gender": "Female",
+      "hobbies": [
+        "Financial Planning"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Wiatt",
+      "email": "wsouza3@omniture.com",
+      "phone": "2568141699",
+      "dob": "2007-03-14",
+      "gender": "Male",
+      "hobbies": [
+        "XCAP"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fred",
+      "email": "ffussen4@huffingtonpost.com",
+      "phone": "9944850181",
+      "dob": "1995-01-15",
+      "gender": "Female",
+      "hobbies": [
+        "VBAC"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tommy",
+      "email": "trains6@t-online.de",
+      "phone": "2262346981",
+      "dob": "1995-02-20",
+      "gender": "Male",
+      "hobbies": [
+        "White Papers"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Denys",
+      "email": "dmaren7@fema.gov",
+      "phone": "5427657029",
+      "dob": "2005-12-07",
+      "gender": "Female",
+      "hobbies": [
+        "Android SDK"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Dacie",
+      "email": "dginn8@miitbeian.gov.cn",
+      "phone": "2168739547",
+      "dob": "1999-08-31",
+      "gender": "Female",
+      "hobbies": [
+        "ERP Implementations"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Jenine",
+      "email": "jsmalles9@purevolume.com",
+      "phone": "9912322439",
+      "dob": "2005-11-08",
+      "gender": "Female",
+      "hobbies": [
+        "PFMEA"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Elsinore",
+      "email": "epaoluccib@businessweek.com",
+      "phone": "9153468482",
+      "dob": "2008-08-19",
+      "gender": "Female",
+      "hobbies": [
+        "Sound"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Obadias",
+      "email": "odoberc@gnu.org",
+      "phone": "3709581944",
+      "dob": "2006-07-06",
+      "gender": "Male",
+      "hobbies": [
+        "LAN-WAN"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Marci",
+      "email": "mpischeld@amazonaws.com",
+      "phone": "4028291079",
+      "dob": "1997-11-28",
+      "gender": "Female",
+      "hobbies": [
+        "Lyric Soprano"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Inessa",
+      "email": "iharmstone@seattletimes.com",
+      "phone": "3656247687",
+      "dob": "1998-04-10",
+      "gender": "Non-binary",
+      "hobbies": [
+        "VO"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ophelia",
+      "email": "ogallihaulkf@nba.com",
+      "phone": "6932478880",
+      "dob": "2000-01-01",
+      "gender": "Female",
+      "hobbies": [
+        "TDR"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Crawford",
+      "email": "civanchovg@mashable.com",
+      "phone": "7933022087",
+      "dob": "2008-11-09",
+      "gender": "Male",
+      "hobbies": [
+        "Tour Operators"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Shepherd",
+      "email": "smulqueenyh@utexas.edu",
+      "phone": "4902345982",
+      "dob": "1995-08-04",
+      "gender": "Male",
+      "hobbies": [
+        "JConsole"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Annis",
+      "email": "ascotchfordi@wikimedia.org",
+      "phone": "1836035707",
+      "dob": "1996-02-19",
+      "gender": "Female",
+      "hobbies": [
+        "Waste Management"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Del",
+      "email": "dziehmj@nytimes.com",
+      "phone": "6261500583",
+      "dob": "2006-03-25",
+      "gender": "Male",
+      "hobbies": [
+        "UCITS"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Alyson",
+      "email": "afurslandk@odnoklassniki.ru",
+      "phone": "5432537711",
+      "dob": "2007-07-26",
+      "gender": "Female",
+      "hobbies": [
+        "Lubrication"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Malvin",
+      "email": "mlubyl@soundcloud.com",
+      "phone": "1331059204",
+      "dob": "2005-02-11",
+      "gender": "Male",
+      "hobbies": [
+        "SDH"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Beret",
+      "email": "bmatonm@reference.com",
+      "phone": "6397376172",
+      "dob": "1995-06-18",
+      "gender": "Female",
+      "hobbies": [
+        "PDA"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Troy",
+      "email": "tkennedyn@surveymonkey.com",
+      "phone": "1615323925",
+      "dob": "2000-08-18",
+      "gender": "Male",
+      "hobbies": [
+        "Eye Surgery"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Merrily",
+      "email": "mspatario@telegraph.co.uk",
+      "phone": "5374446521",
+      "dob": "2007-08-20",
+      "gender": "Female",
+      "hobbies": [
+        "Aerohive"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Markos",
+      "email": "mfinlryp@stumbleupon.com",
+      "phone": "2299413276",
+      "dob": "1998-07-24",
+      "gender": "Male",
+      "hobbies": [
+        "NLTK"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Theobald",
+      "email": "tmcilvaneyq@google.co.jp",
+      "phone": "2339029468",
+      "dob": "2003-10-02",
+      "gender": "Male",
+      "hobbies": [
+        "Wealth Management"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Dannie",
+      "email": "dboramr@amazon.co.uk",
+      "phone": "8994726188",
+      "dob": "1997-06-02",
+      "gender": "Male",
+      "hobbies": [
+        "IT Management"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Alicia",
+      "email": "ascranges@4shared.com",
+      "phone": "2059129296",
+      "dob": "1998-03-18",
+      "gender": "Female",
+      "hobbies": [
+        "RRC"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Clyde",
+      "email": "ccarillot@smh.com.au",
+      "phone": "7493374352",
+      "dob": "2003-01-20",
+      "gender": "Male",
+      "hobbies": [
+        "Microsoft Dynamics AX"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Margaretha",
+      "email": "mfronczaku@guardian.co.uk",
+      "phone": "6444183708",
+      "dob": "1996-04-11",
+      "gender": "Female",
+      "hobbies": [
+        "EIP"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Abbey",
+      "email": "abiltv@bloomberg.com",
+      "phone": "9107094950",
+      "dob": "2005-02-05",
+      "gender": "Female",
+      "hobbies": [
+        "MTBF"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Morna",
+      "email": "mvokesw@angelfire.com",
+      "phone": "9564687784",
+      "dob": "2004-11-08",
+      "gender": "Female",
+      "hobbies": [
+        "Executive Management"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Pierette",
+      "email": "pparkynsx@dion.ne.jp",
+      "phone": "2798474261",
+      "dob": "1995-12-07",
+      "gender": "Female",
+      "hobbies": [
+        "Tortoise SVN"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Derron",
+      "email": "dstellinoy@amazon.co.jp",
+      "phone": "8168000592",
+      "dob": "2000-02-23",
+      "gender": "Male",
+      "hobbies": [
+        "PMB"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Flem",
+      "email": "fnesbyz@oaic.gov.au",
+      "phone": "4633866572",
+      "dob": "2007-07-10",
+      "gender": "Male",
+      "hobbies": [
+        "TM1"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Beilul",
+      "email": "badao10@1und1.de",
+      "phone": "4166982736",
+      "dob": "2003-11-08",
+      "gender": "Female",
+      "hobbies": [
+        "iOS Design"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Tandi",
+      "email": "tfrisby11@google.co.uk",
+      "phone": "7294478665",
+      "dob": "1998-08-27",
+      "gender": "Female",
+      "hobbies": [
+        "American Sign Language"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Edythe",
+      "email": "eespino12@webmd.com",
+      "phone": "7835137665",
+      "dob": "2005-06-09",
+      "gender": "Female",
+      "hobbies": [
+        "Xplan"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Pauline",
+      "email": "pgraddon13@sina.com.cn",
+      "phone": "5421241535",
+      "dob": "2003-01-29",
+      "gender": "Female",
+      "hobbies": [
+        "GMRA"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Jamil",
+      "email": "joldroyd14@flavors.me",
+      "phone": "7712299592",
+      "dob": "2007-04-01",
+      "gender": "Agender",
+      "hobbies": [
+        "Public Policy"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Zandra",
+      "email": "zbandt15@blogger.com",
+      "phone": "9025593296",
+      "dob": "2005-12-09",
+      "gender": "Female",
+      "hobbies": [
+        "Google Adwords"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Ogdan",
+      "email": "otrowl16@geocities.com",
+      "phone": "5168207200",
+      "dob": "1997-08-13",
+      "gender": "Male",
+      "hobbies": [
+        "Home Care"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Bibi",
+      "email": "btoner17@istockphoto.com",
+      "phone": "4008726975",
+      "dob": "2004-12-24",
+      "gender": "Female",
+      "hobbies": [
+        "GMP"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Gregory",
+      "email": "gillem18@de.vu",
+      "phone": "8498116746",
+      "dob": "1998-04-24",
+      "gender": "Male",
+      "hobbies": [
+        "OHSAS 18001"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Ashby",
+      "email": "atrowsdale19@bbb.org",
+      "phone": "6799175556",
+      "dob": "2006-10-27",
+      "gender": "Male",
+      "hobbies": [
+        "iBatis"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Milo",
+      "email": "mroyl1a@usgs.gov",
+      "phone": "9066495882",
+      "dob": "2001-03-28",
+      "gender": "Male",
+      "hobbies": [
+        "Pigments"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Percival",
+      "email": "pfincke1b@icio.us",
+      "phone": "2124090362",
+      "dob": "2007-11-15",
+      "gender": "Male",
+      "hobbies": [
+        "NNTP"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Deloris",
+      "email": "dpinyon1c@theatlantic.com",
+      "phone": "6284095118",
+      "dob": "2006-04-07",
+      "gender": "Female",
+      "hobbies": [
+        "Jive SBS"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Denys",
+      "email": "dmimmack1d@51.la",
+      "phone": "3631071992",
+      "dob": "2001-02-09",
+      "gender": "Female",
+      "hobbies": [
+        "AOG"
+      ]
+    }
+  ]
 }
