@@ -12,17 +12,6 @@
       ]
     },
     {
-      "id": 3,
-      "name": "Aura",
-      "email": "ainstone2@mysql.com",
-      "phone": "5495652555",
-      "dob": "2003-08-17",
-      "gender": "Female",
-      "hobbies": [
-        "Financial Planning"
-      ]
-    },
-    {
       "id": 4,
       "name": "Wiatt",
       "email": "wsouza3@omniture.com",
